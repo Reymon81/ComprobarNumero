@@ -20,7 +20,6 @@ public class Numero {
 			cadena = sc.nextLine();
 		}
 		int numero=Integer.parseInt(cadena);
-		System.out.println(numero+2);		
 	}
 
 }
